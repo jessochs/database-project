@@ -1,12 +1,10 @@
 # Overview
 
-This software is a python program that uses SQLite to create and populate a database. The program start with multiple tables being created, then data is inserted into each table, one table is manipulated, some aggregate functions are used, and it finished with an inner join. The data is displayed along the way so the changes can be seem.
+This software is a python program that uses SQLite to create and populate a database. The program starts with multiple tables being created, then data is inserted into each table, one table is manipulated, some aggregate functions are used, and it finishes with an inner join. The data is displayed along the way so the changes can be seem.
 
-This was written with the goal of becoming more familiar with SQlite. Previosly, I had only used MySQL in MySQL workbench and not in python, but I discovered that SQLite was even more user friendly than workbench. I look forward to using SQLite more in the future.
+This was written with the goal of becoming more familiar with SQlite. Previusly, I had only used MySQL in MySQL workbench and not in python, but I discovered that SQLite was even more user friendly than workbench. I look forward to using SQLite more in the future.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/e4v4Xvb-drE)
 
 # Relational Database
 
